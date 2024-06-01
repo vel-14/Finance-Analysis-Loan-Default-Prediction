@@ -29,6 +29,6 @@ Analyze the relationship between various factors and loan default status.
 Visualize patterns and trends using descriptive statistics, histograms, and correlation matrices.
 Insights and Recommendations: Summarize findings and propose actionable recommendations to mitigate loan default risks and optimize lending practices.
 
-##Conclusion
+## Conclusion
 
 Through comprehensive exploratory data analysis, we aim to gain valuable insights into the factors influencing loan default and develop strategies to improve risk assessment and lending decisions. By leveraging data-driven approaches, we strive to minimize financial losses and enhance the overall efficiency and effectiveness of the lending process.
